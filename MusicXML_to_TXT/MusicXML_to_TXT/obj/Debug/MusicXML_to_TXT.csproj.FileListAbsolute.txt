@@ -1,0 +1,11 @@
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\bin\Debug\MusicXML_to_TXT.exe.config
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\bin\Debug\MusicXML_to_TXT.exe
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\bin\Debug\MusicXML_to_TXT.pdb
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\obj\Debug\MusicXML_to_TXT.csprojAssemblyReference.cache
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\obj\Debug\MusicXML_to_TXT.csproj.CoreCompileInputs.cache
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\obj\Debug\MusicXML_to_TXT.exe
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\obj\Debug\MusicXML_to_TXT.pdb
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\obj\Debug\MusicXML_to_TXT.csproj.CopyComplete
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\bin\Debug\Newtonsoft.Json.dll
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\bin\Debug\Newtonsoft.Json.pdb
+G:\Serge\Save\VS\Misc\MusicXML_to_TXT\MusicXML_to_TXT\bin\Debug\Newtonsoft.Json.xml
