@@ -6,7 +6,7 @@ A simple project to generate some MIDI riffs using LSTM neural network
 
 For training data, I chose 30 MIDI songs by Slayer. From each one of those I took a single guitar track, stripped all the crazy solos and transposed all songs to the same key. Then I converted MIDIs to MusicXML to be able to parse them easily. [Input XMLs](/Runtime/XML/).
 
-Basically, my method for music generation is the same as for generating text. So, we need to convert all our XMLs to a single text file. For that, I wrote a simple C# application ("MusicXML_to_TXT" folder). The text format is pretty straightforward. Each note is encoded like this: "NoteOctaveDuration", chord notes are connected with a plus sign, notes and chords are separated by spaces, measures - by "MeasureEnd", songs - by "SongEnd". [Text example](/Runtime/TXT/output.txt).
+Basically, my method for music generation is the same as for generating text. So, we need to convert all our XMLs to a single text file. For that, I wrote a simple C# application. The text format is pretty straightforward. Each note is encoded like this: "NoteOctaveDuration", chord notes are connected with a plus sign, notes and chords are separated by spaces, measures - by "MeasureEnd", songs - by "SongEnd". [Text example](/Runtime/TXT/output.txt).
 
 Note durations are encoded by special characters and stored in a [separate file](Runtime/TXT/durations.json), which we'll use later to decode generated text back to MusicXML.
 
