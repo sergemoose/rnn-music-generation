@@ -2,6 +2,9 @@
 
 A simple project to generate some MIDI riffs using LSTM neural network
 
+Check out the video of the process, which also contains a song composed from generated riffs (starts as 3:43):
+https://www.youtube.com/watch?v=5gSqYCxTf5g
+
 ### Description
 
 For training data, I chose 30 MIDI songs by Slayer. From each one of those I took a single guitar track, stripped all the crazy solos and transposed all songs to the same key. Then I converted MIDIs to MusicXML to be able to parse them easily. [Input XMLs](/Runtime/XML/).
